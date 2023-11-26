@@ -1,0 +1,27 @@
+header{
+  background: no-repeat center center;
+  background-size: cover;
+  color: white;
+}
+.color-overlay{
+  background-color: rgba(0, 0, 0, 0.4);
+  min-height: 60vh;
+}
+.singleCol{
+  max-width: 750px;
+  background-color: yellowgreen;
+}
+footer{
+  background-color: #3a3a3a;
+}
+footer a{
+    color: white;
+}
+footer a:hover{
+    color: #dfdfdf
+}
+@media (max-width:768px){
+  .color-overlay{
+      (min-width: 30vh);
+  }
+}
