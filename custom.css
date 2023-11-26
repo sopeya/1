@@ -9,10 +9,10 @@ header{
 }
 .singleCol{
   max-width: 750px;
-  background-color: yellowgreen;
+  background-color: #4E3622;
 }
 footer{
-  background-color: #3a3a3a;
+  background-color: #4E3622;
 }
 footer a{
     color: white;
