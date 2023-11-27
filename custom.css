@@ -22,7 +22,7 @@ body{
   background-color: #DAD3C9;
 }
 
-img.float-sm-none float-md-end{
+img.float-sm-none.float-md-end{
   border: 15px solid #4E3622;
   border-radius: 174px;
 }
