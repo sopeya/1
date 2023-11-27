@@ -45,11 +45,10 @@ body{
 
 footer{
   background-color: #4E3622;
-  display: block;
 }
 
 footer a{
-    color: white;
+    color: #35271E;
 }
 
 footer a:hover{
