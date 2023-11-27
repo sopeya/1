@@ -22,7 +22,7 @@ body{
   background-color: #DAD3C9;
 }
 
-img profile.png{
+img.profile.png{
   border: 15px solid #4E3622;
   border-radius: 174px;
 }
@@ -63,10 +63,6 @@ footer a{
 
 footer a:hover{
     color: #dfdfdf;
-}
-
-.input type:hover{
-  color: #dfdfdf;
 }
 @media (max-width:768.98px){
   .color-overlay{
