@@ -65,6 +65,9 @@ footer a:hover{
     color: #dfdfdf;
 }
 
+form:hover{
+  color: #dfdfdf;
+}
 @media (max-width:768.98px){
   .color-overlay{
       (min-width: 30vh);
