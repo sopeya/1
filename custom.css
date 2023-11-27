@@ -65,7 +65,7 @@ footer a:hover{
     color: #dfdfdf;
 }
 
-form:hover{
+.input type:hover{
   color: #dfdfdf;
 }
 @media (max-width:768.98px){
