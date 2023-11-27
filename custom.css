@@ -3,43 +3,58 @@ header{
   background-size: cover;
   color: #FEFEFE;
 }
+
+body{
+  background-color: #FEFEFE;
+}
+
 .color-overlay{
   background-color: rgba(0, 0, 0, 0.4);
   min-height: 60vh;
 }
+
 .singleCol{
   max-width: 750px;
   background-color: #4E3622;
 }
+
 .navvy{
   background-color: #4E3622;
 }
+
 .navbar-light,
 .navbar-toggler{
   border-color: #DAD3C9;
   color: #DAD3C9;
 }
+
 .navbar-light,
 .navbar-toggler:hover{
   border-color: #4E3622;
   color: #4E3622;
 }
+
 .btn-outline-dark{
   background-color: #AAA39B;
 }
+
 .btn-outline-dark:hover{
   background-color: #4E3622;
   color: #DAD3C9;
 }
+
 footer{
   background-color: #4E3622;
 }
+
 footer a{
     color: white;
 }
+
 footer a:hover{
     color: #dfdfdf
 }
+
 @media (max-width:768.98px){
   .color-overlay{
       (min-width: 30vh);
