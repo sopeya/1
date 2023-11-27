@@ -45,6 +45,7 @@ body{
 
 footer{
   background-color: #4E3622;
+  display: flex;
 }
 
 footer a{
