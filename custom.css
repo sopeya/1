@@ -15,7 +15,7 @@ body{
 
 .singleCol{
   max-width: 750px;
-  background-color: #4E3622;
+  background-color: #DAD3C9;
 }
 
 .navvy{
@@ -24,7 +24,7 @@ body{
 
 .navbar-light,
 .navbar-toggler{
-  border-color: #DAD3C9;
+  //border-color: #DAD3C9;//
   color: #DAD3C9;
 }
 
