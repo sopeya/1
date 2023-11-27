@@ -44,16 +44,16 @@ body{
 }
 
 footer{
-  background-color: #dfdfdf;
+  background-color: #4E3622;
   display: flex;
 }
 
 footer a{
-    color: #35271E;
+    color:#dfdfdf;
 }
 
 footer a:hover{
-    color: #4E3622;
+    color: #35271E;
 }
 
 @media (max-width:768.98px){
