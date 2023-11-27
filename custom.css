@@ -45,7 +45,7 @@ img.float-sm-none float-md-end{
 
 .btn-outline-dark{
   background-color: #AAA39B;
-  display: flex;
+  align-items: center;
 }
 
 .btn-outline-dark:hover{
