@@ -1,3 +1,7 @@
+*{
+  font-family: Palatino serif;
+}
+
 header{
   background: no-repeat center center;
   background-size: cover;
