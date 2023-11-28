@@ -57,7 +57,7 @@ header{
   color: #DAD3C9;
 }
 
-.btn-btn-primary {
+.btn btn-primary {
   --bs-btn-font-weight: 600;
   --bs-btn-color: var(--bs-white);
   --bs-btn-bg: var(--bd-#4E3622-bg);
