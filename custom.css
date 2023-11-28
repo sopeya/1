@@ -5,10 +5,6 @@
 header{
   background: no-repeat center center;
   background-size: cover;
-  color: #FEFEFE;
-}
-
-body{
   background-color: #FEFEFE;
 }
 
@@ -61,7 +57,7 @@ a.nav-link:hover{
 }
 
 footer{
-  height: 20px;
+  height: 0px;
   background-color: #4E3622;
 }
 
