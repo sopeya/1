@@ -22,12 +22,12 @@ header{
   border: 15px solid #4E3622;
   border-radius: 174px;
 }
-a.nav-link{
+.nav-link{
   font: 20px;
   color: #35271E;
 }
 
-a.nav-link:hover{
+.nav-link:hover{
   color: #4E3622;
 }
 
@@ -57,7 +57,7 @@ a.nav-link:hover{
   color: #DAD3C9;
 }
 
-.btn-bd-primary {
+.btn-btn-primary {
   --bs-btn-font-weight: 600;
   --bs-btn-color: var(--bs-white);
   --bs-btn-bg: var(--bd-#4E3622-bg);
