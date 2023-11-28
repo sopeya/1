@@ -26,7 +26,8 @@ body{
   border: 15px solid #4E3622;
   border-radius: 174px;
 }
-.nav-items{
+.nav-link{
+  font: 20px;
   color: #4E3622;
 }
 
