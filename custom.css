@@ -26,7 +26,13 @@ body{
   border: 15px solid #4E3622;
   border-radius: 174px;
 }
+.nav-items{
+  color: #4E3622;
+}
 
+.nav-items:hover{
+  color: #4E3622;
+}
 .navvy{
   background-color: ##FEFEFE;
 }
