@@ -18,13 +18,13 @@ header{
   background-color: #DAD3C9;
 }
 
-.profile.png{
+img profile.png{
   border: 15px solid #4E3622;
   border-radius: 174px;
 }
 a.nav-link{
   font: 20px;
-  color: #4E3622;
+  color: #35271E;
 }
 
 a.nav-link:hover{
