@@ -14,7 +14,7 @@ header{
 }
 
 .singleCol{
-  max-width: 750px;
+  max-width: 750px 226;
   background-color: #FEFEFE;
 }
 
