@@ -26,12 +26,12 @@ body{
   border: 15px solid #4E3622;
   border-radius: 174px;
 }
-.nav-link{
+a.nav-link{
   font: 20px;
   color: #4E3622;
 }
 
-.nav-items:hover{
+a.nav-link:hover{
   color: #4E3622;
 }
 .navvy{
